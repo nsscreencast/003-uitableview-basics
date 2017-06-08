@@ -1,3 +1,10 @@
+## Sample Code
+
+This code is part of an [NSScreencast](http://nsscreencast.com) episode.
+
+Sample code is released under the MIT license (see below), except for 3rd party
+code (typically brought in via `Podfiles`), which are subject to their own
+respective licenses.
 
 ## License
 
